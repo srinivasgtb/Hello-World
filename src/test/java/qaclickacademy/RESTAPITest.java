@@ -23,6 +23,8 @@ public class RESTAPITest {
 	public void deletetwitter()
 	{
 		System.out.println("deletetwitter");
+		System.out.println("bkestwitter");
+		System.out.println("socialtwitter");
 		
 	}
 
