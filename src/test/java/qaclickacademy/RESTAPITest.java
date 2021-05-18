@@ -35,6 +35,7 @@ public void ptjira()
 		System.out.println("deletetwitter");
 		System.out.println("bkestwitter");
 		System.out.println("socialtwitter");
+		System.out.println("skcisse");
 		
 	}
 
